@@ -1,0 +1,8 @@
+title: Neongraal.github.io
+description: My Github pages site
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
