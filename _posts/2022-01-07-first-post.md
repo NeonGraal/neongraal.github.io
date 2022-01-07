@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+category: general
+tags: simple
 ---
 
 # Welcome
