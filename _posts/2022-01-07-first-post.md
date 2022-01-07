@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First Post"
 category: general
 tags: simple
 ---
 
-# Welcome
+# First Post
 
 **Hello world**, this is my first Jekyll blog post.
 

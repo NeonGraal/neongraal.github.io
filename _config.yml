@@ -1,8 +1,17 @@
 title: Neongraal.github.io
+email: blog@scifi.geek.nz
+github_username:  neongraal
 description: My Github pages site
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-hacker
+theme: minima
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: "@NeonGraal"
+
+years:
+  - 2022
 
 # Archives
 collections:
@@ -10,5 +19,5 @@ collections:
     output: true
     permalink: /archives/:path/
 
-gems:
-  - jekyll-mentions
+plugins:
+  - jekyll-feed
