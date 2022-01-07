@@ -4,5 +4,11 @@ google_analytics:
 show_downloads: true
 theme: jekyll-theme-hacker
 
+# Archives
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
+
 gems:
   - jekyll-mentions
