@@ -3,6 +3,9 @@ email: blog@scifi.geek.nz
 github_username:  neongraal
 description: My Github pages site
 theme: minima
+show_excerpts: true
+page_excerpts: true
+paginate: 5
 
 defaults:
   - scope:

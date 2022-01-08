@@ -1,10 +1,7 @@
 ---
-layout: post
-title:  "First Post"
-category: general
+title: "First Post"
 tags: simple
 ---
-
 # First Post
 
 **Hello world**, this is my first Jekyll blog post.

@@ -13,6 +13,11 @@
             "type": "shell",
             "isBackground": true,
             "command": "wsl bundle exec jekyll serve --no-watch"
+        },
+        {
+            "label": "Bundle update",
+            "type": "shell",
+            "command": "wsl bundle update"
         }
     ]
 }
