@@ -10,6 +10,6 @@ More correctly I dived down the rabbit hole of configuring GitHub Pages and Jeky
 
 > Documentation!
 
-Well, more correctly, I wanted to do something a little different from the default / golden path and when I found an example of prior art, it was obth old and made presumptions.
+Well, more correctly, I wanted to do something a little different from the default / golden path and when I found an example of prior art, it was both old and made presumptions.
 
 So after about 3 hours of 'work' over two days I ended going back to default setups and just not trying to do anything too different from the defaults before I understood a lot more about how `Jekyll` hangs together.
