@@ -8,3 +8,10 @@ services:
         - 4000:4000
       volumes:
         - .:/srv/jekyll
+
+  bundle:
+    image: ruby:3
+    entrypoint: bundle
+    working_dir: /app
+    volumes:
+      - .:/app
